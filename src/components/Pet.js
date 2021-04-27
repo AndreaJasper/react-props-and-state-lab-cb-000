@@ -28,7 +28,7 @@ class Pet extends React.Component {
           </div>
         </div>
         <div className="extra content">
-          <{this.adoptedOrNot}
+          {this.adoptedOrNot}
         </div>
       </div>
     )
